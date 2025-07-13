@@ -1,1 +1,1 @@
-"# GraphQL" 
+"# GraphQL Learning Basics - CRUD" 
